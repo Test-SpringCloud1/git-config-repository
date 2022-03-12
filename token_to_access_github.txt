@@ -1,0 +1,5 @@
+pass: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 
+
+use this instead of github pass
+
+userrep: Test-SpringCloud1
